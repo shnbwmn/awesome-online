@@ -9,6 +9,10 @@
 * [BibleGateway](https://www.biblegateway.com/) - many translations and languages, nice site
 * [BibleHub](http://biblehub.com)
 
+### Graphics
+
+#### Image Uploading
+* [Imgur](http://imgur.com/)
 
 
 
