@@ -7,3 +7,8 @@
 
 #### Religion
 * [BibleGateway](https://www.biblegateway.com/) - many translations and languages, nice site
+* [BibleHub](http://biblehub.com)
+
+
+
+
