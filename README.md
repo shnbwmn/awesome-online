@@ -24,7 +24,7 @@
 * [Issuu](https://issuu.com/)
 
 #### Suites
-* [Google Docs](https://docs.google.com/document/u/0/), [Google Sheets](https://docs.google.com/spreadsheets/u/0/), [Google Slides](https://docs.google.com/presentation/u/0/), [Google Forms](https://docs.google.com/forms/u/0/)
+* Google [Docs](https://docs.google.com/document/u/0/), [Sheets](https://docs.google.com/spreadsheets/u/0/), [Slides](https://docs.google.com/presentation/u/0/), [Forms](https://docs.google.com/forms/u/0/)
 
 ### Utilities
 
