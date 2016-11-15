@@ -23,4 +23,9 @@
 * [Google Photos](https://photos.google.com/)
 * [PostImage](http://postimage.org/)
 
+### Utilities
+
+#### Search
+* [DuckDuckGo](https://duckduckgo.com/)
+
 
