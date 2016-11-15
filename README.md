@@ -3,11 +3,6 @@
 
 > Curated list of awesome online apps & sites.
 
-### Documents
-
-* [Library Genesis](http://gen.lib.rus.ec/)
-* [Issuu](https://issuu.com/)
-
 ### Education
 
 #### Religion
@@ -22,6 +17,14 @@
 * [Photobucket](http://photobucket.com/)
 * [Google Photos](https://photos.google.com/)
 * [PostImage](http://postimage.org/)
+
+### Office
+
+* [Library Genesis](http://gen.lib.rus.ec/)
+* [Issuu](https://issuu.com/)
+
+#### Suites
+* [Google Docs](https://docs.google.com/document/u/0/), [Google Sheets](https://docs.google.com/spreadsheets/u/0/), [Google Slides](https://docs.google.com/presentation/u/0/), [Google Forms](https://docs.google.com/forms/u/0/)
 
 ### Utilities
 
