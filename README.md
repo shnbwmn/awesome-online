@@ -13,6 +13,9 @@
 
 #### Image Uploading
 * [Imgur](http://imgur.com/)
-
+* [Flickr](https://www.flickr.com/)
+* [Photobucket](http://photobucket.com/)
+* [Google Photos](https://photos.google.com/)
+* [PostImage](http://postimage.org/)
 
 
