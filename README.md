@@ -3,6 +3,11 @@
 
 > Curated list of awesome online apps.
 
+### Documents
+
+* [Library Genesis](http://gen.lib.rus.ec/)
+* [Issuu](https://issuu.com/)
+
 ### Education
 
 #### Religion
