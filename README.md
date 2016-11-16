@@ -18,6 +18,11 @@
 * [Google Photos](https://photos.google.com/)
 * [PostImage](http://postimage.org/)
 
+### Internet
+
+#### Communication
+* [QuakeNet Web IRC](https://webchat.quakenet.org/)
+
 ### Office
 
 * [Library Genesis](http://gen.lib.rus.ec/)
