@@ -20,6 +20,9 @@
 
 ### Internet
 
+#### Bookmarking
+* [Pocket](https://getpocket.com)
+
 #### Communication
 * [QuakeNet Web IRC](https://webchat.quakenet.org/)
 
