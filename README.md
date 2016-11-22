@@ -3,6 +3,9 @@
 
 > Curated list of awesome online apps & sites.
 
+## Art
+* [Quickposes](https://www.quickposes.com/)
+
 ## Bible Study
 * [BibleGateway](https://www.biblegateway.com/)
 * [BibleHub](http://biblehub.com)
@@ -20,6 +23,11 @@
 
 ## Communities
 * [Reddit](https://www.reddit.com/)
+
+## Computer Graphics
+* [ArtStation](https://www.artstation.com/)
+* [CGPress](http://cgpress.org/)
+* [CGSociety](http://www.cgsociety.org/)
 
 ## Document Editing
 * Google [Docs](https://docs.google.com/document/u/0/), [Sheets](https://docs.google.com/spreadsheets/u/0/), [Slides](https://docs.google.com/presentation/u/0/), [Forms](https://docs.google.com/forms/u/0/)
