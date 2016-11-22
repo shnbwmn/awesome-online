@@ -56,6 +56,7 @@
 
 ## Search
 * [DuckDuckGo](https://duckduckgo.com/)
+* [Searx](https://searx.me/)
 
 ## Storage
 * [Dropbox](https://www.dropbox.com/)
