@@ -55,6 +55,12 @@
 ## Search
 * [DuckDuckGo](https://duckduckgo.com/)
 
+## Storage
+* [Dropbox](https://www.dropbox.com/)
+* [Google Drive](https://drive.google.com/)
+* [MEGA](https://mega.nz/)
+* [OneDrive](https://onedrive.live.com/)
+
 ## Video Sharing
 * [Youtube](https://www.youtube.com)
 * [Vimeo](https://vimeo.com/)
