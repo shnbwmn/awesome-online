@@ -34,6 +34,9 @@
 * Google [Docs](https://docs.google.com/document/u/0/), [Sheets](https://docs.google.com/spreadsheets/u/0/), [Slides](https://docs.google.com/presentation/u/0/), [Forms](https://docs.google.com/forms/u/0/)
 * [StackEdit](https://stackedit.io/)
 
+## File Sharing
+* [Temp Share](https://temp-share.com/home)
+
 ## Image Uploading
 * [Imgur](http://imgur.com/)
 * [Flickr](https://www.flickr.com/)
