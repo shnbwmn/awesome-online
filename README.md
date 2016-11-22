@@ -30,7 +30,9 @@
 * [CGSociety](http://www.cgsociety.org/)
 
 ## Document Editing
+* [Dillinger](http://dillinger.io/)
 * Google [Docs](https://docs.google.com/document/u/0/), [Sheets](https://docs.google.com/spreadsheets/u/0/), [Slides](https://docs.google.com/presentation/u/0/), [Forms](https://docs.google.com/forms/u/0/)
+* [StackEdit](https://stackedit.io/)
 
 ## Image Uploading
 * [Imgur](http://imgur.com/)
