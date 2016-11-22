@@ -17,6 +17,9 @@
 * [Library Genesis](http://gen.lib.rus.ec/)
 * [Issuu](https://issuu.com/)
 
+## CAD
+* [OpenJSCAD](http://openjscad.org/)
+
 ## Colour Picking
 * [Adobe Color](https://color.adobe.com/)
 * [Paletton](http://paletton.com/)
