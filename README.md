@@ -3,14 +3,25 @@
 
 > Curated list of awesome online apps & sites.
 
-## Books & publications
+## Bible Study
+* [BibleGateway](https://www.biblegateway.com/)
+* [BibleHub](http://biblehub.com)
+
+## Bookmarks
+* [Google Bookmarks](https://www.google.com/bookmarks/)
+
+## Books & Publications
 * [Library Genesis](http://gen.lib.rus.ec/)
 * [Issuu](https://issuu.com/)
+
+## Colour Picking
+* [Adobe Color](https://color.adobe.com/)
+* [Paletton](http://paletton.com/)
 
 ## Communities
 * [Reddit](https://www.reddit.com/)
 
-## Document editing
+## Document Editing
 * Google [Docs](https://docs.google.com/document/u/0/), [Sheets](https://docs.google.com/spreadsheets/u/0/), [Slides](https://docs.google.com/presentation/u/0/), [Forms](https://docs.google.com/forms/u/0/)
 
 ## Image Uploading
@@ -23,21 +34,21 @@
 ## IRC
 * [QuakeNet Web IRC](https://webchat.quakenet.org/)
 
-## Paste service
+## Paste Service
 * [Pastebin](http://pastebin.com/)
 
 ## Questions & Answers
 * [Quora](https://www.quora.com/)
 * [Yahoo Answers](https://answers.yahoo.com/)
 
-## Religion
-* [BibleGateway](https://www.biblegateway.com/)
-* [BibleHub](http://biblehub.com)
-
-## Read later
+## Read Later
 * [Pocket](https://getpocket.com)
 
 ## Search
 * [DuckDuckGo](https://duckduckgo.com/)
+
+## Video Sharing
+* [Youtube](https://www.youtube.com)
+* [Vimeo](https://vimeo.com/)
 
 
