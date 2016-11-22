@@ -3,41 +3,41 @@
 
 > Curated list of awesome online apps & sites.
 
-### Education
+## Books & publications
+* [Library Genesis](http://gen.lib.rus.ec/)
+* [Issuu](https://issuu.com/)
 
-#### Religion
-* [BibleGateway](https://www.biblegateway.com/) - many translations and languages, nice site
-* [BibleHub](http://biblehub.com)
+## Communities
+* [Reddit](https://www.reddit.com/)
 
-### Graphics
+## Document editing
+* Google [Docs](https://docs.google.com/document/u/0/), [Sheets](https://docs.google.com/spreadsheets/u/0/), [Slides](https://docs.google.com/presentation/u/0/), [Forms](https://docs.google.com/forms/u/0/)
 
-#### Image Uploading
+## Image Uploading
 * [Imgur](http://imgur.com/)
 * [Flickr](https://www.flickr.com/)
 * [Photobucket](http://photobucket.com/)
 * [Google Photos](https://photos.google.com/)
 * [PostImage](http://postimage.org/)
 
-### Internet
-
-#### Bookmarking
-* [Pocket](https://getpocket.com)
-
-#### Communication
+## IRC
 * [QuakeNet Web IRC](https://webchat.quakenet.org/)
 
-### Office
+## Paste service
+* [Pastebin](http://pastebin.com/)
 
-#### Books & publications
-* [Library Genesis](http://gen.lib.rus.ec/)
-* [Issuu](https://issuu.com/)
+## Questions & Answers
+* [Quora](https://www.quora.com/)
+* [Yahoo Answers](https://answers.yahoo.com/)
 
-#### Suites
-* Google [Docs](https://docs.google.com/document/u/0/), [Sheets](https://docs.google.com/spreadsheets/u/0/), [Slides](https://docs.google.com/presentation/u/0/), [Forms](https://docs.google.com/forms/u/0/)
+## Religion
+* [BibleGateway](https://www.biblegateway.com/) - many translations and languages, nice site
+* [BibleHub](http://biblehub.com)
 
-### Utilities
+## Read later
+* [Pocket](https://getpocket.com)
 
-#### Search
+## Search
 * [DuckDuckGo](https://duckduckgo.com/)
 
 
