@@ -31,7 +31,7 @@
 * [Yahoo Answers](https://answers.yahoo.com/)
 
 ## Religion
-* [BibleGateway](https://www.biblegateway.com/) - many translations and languages, nice site
+* [BibleGateway](https://www.biblegateway.com/)
 * [BibleHub](http://biblehub.com)
 
 ## Read later
