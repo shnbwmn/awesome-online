@@ -50,6 +50,11 @@
 ## File Sharing
 * [Temp Share](https://temp-share.com/home)
 
+## Images
+* [Google Arts and Culture](https://www.google.com/culturalinstitute/beta/u/0/) - formerly *Google Art Project*
+  * [GigaFineArt](http://gigafineart.herokuapp.com/gcidownload)
+* [The Met](http://www.metmuseum.org/art/collection)
+
 ## Image Uploading
 * [Imgur](http://imgur.com/)
 * [Flickr](https://www.flickr.com/)
@@ -73,6 +78,9 @@
 ## Search
 * [DuckDuckGo](https://duckduckgo.com/)
 * [Searx](https://searx.me/)
+
+## Software
+* [AlternativeTo](http://alternativeto.net/)
 
 ## Storage
 * [Dropbox](https://www.dropbox.com/)
