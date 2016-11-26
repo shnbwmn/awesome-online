@@ -18,6 +18,8 @@
 * [Forgotten Books](https://www.forgottenbooks.com/en)
 * [Issuu](https://issuu.com/)
 * [Library Genesis](http://gen.lib.rus.ec/)
+* [Project Gutenberg](https://www.gutenberg.org/)
+* [WikiBooks](https://en.wikibooks.org/wiki/Main_Page)
 
 ## CAD
 * [OpenJSCAD](http://openjscad.org/)
@@ -38,6 +40,12 @@
 * [Dillinger](http://dillinger.io/)
 * Google [Docs](https://docs.google.com/document/u/0/), [Sheets](https://docs.google.com/spreadsheets/u/0/), [Slides](https://docs.google.com/presentation/u/0/), [Forms](https://docs.google.com/forms/u/0/)
 * [StackEdit](https://stackedit.io/)
+
+## Education
+* [Coursera](https://www.coursera.org/)
+* [EdX](https://www.edx.org/)
+* [Open2Study](https://www.open2study.com/)
+* [Open Culture](http://www.openculture.com/)
 
 ## File Sharing
 * [Temp Share](https://temp-share.com/home)
