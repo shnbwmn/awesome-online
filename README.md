@@ -4,7 +4,10 @@
 > Curated list of awesome online apps & sites.
 
 ## Art
+* [Google Arts and Culture](https://www.google.com/culturalinstitute/beta/u/0/) - formerly *Google Art Project*
+  * [GigaFineArt](http://gigafineart.herokuapp.com/gcidownload)
 * [Quickposes](https://www.quickposes.com/)
+* [The Met](http://www.metmuseum.org/art/collection)
 
 ## Bible Study
 * [BibleGateway](https://www.biblegateway.com/)
@@ -49,11 +52,6 @@
 
 ## File Sharing
 * [Temp Share](https://temp-share.com/home)
-
-## Images
-* [Google Arts and Culture](https://www.google.com/culturalinstitute/beta/u/0/) - formerly *Google Art Project*
-  * [GigaFineArt](http://gigafineart.herokuapp.com/gcidownload)
-* [The Met](http://www.metmuseum.org/art/collection)
 
 ## Image Uploading
 * [Imgur](http://imgur.com/)
