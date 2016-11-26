@@ -14,8 +14,9 @@
 * [Google Bookmarks](https://www.google.com/bookmarks/)
 
 ## Books & Publications
-* [Library Genesis](http://gen.lib.rus.ec/)
+* [BookZZ](http://bookzz.org/)
 * [Issuu](https://issuu.com/)
+* [Library Genesis](http://gen.lib.rus.ec/)
 
 ## CAD
 * [OpenJSCAD](http://openjscad.org/)
