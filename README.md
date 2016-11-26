@@ -15,6 +15,7 @@
 
 ## Books & Publications
 * [BookZZ](http://bookzz.org/)
+* [Forgotten Books](https://www.forgottenbooks.com/en)
 * [Issuu](https://issuu.com/)
 * [Library Genesis](http://gen.lib.rus.ec/)
 
