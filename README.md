@@ -27,6 +27,9 @@
 ## CAD
 * [OpenJSCAD](http://openjscad.org/)
 
+## Calculate
+* [fxsolver](http://www.fxsolver.com/)
+
 ## Colour Picking
 * [Adobe Color](https://color.adobe.com/)
 * [Paletton](http://paletton.com/)
@@ -80,6 +83,9 @@
 
 ## Software
 * [AlternativeTo](http://alternativeto.net/)
+
+## Stock Photos
+* [Pixabay](https://pixabay.com/)
 
 ## Storage
 * [Dropbox](https://www.dropbox.com/)
