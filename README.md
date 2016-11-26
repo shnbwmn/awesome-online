@@ -21,6 +21,7 @@
 * [Forgotten Books](https://www.forgottenbooks.com/en)
 * [Issuu](https://issuu.com/)
 * [Library Genesis](http://gen.lib.rus.ec/)
+* [Open Library](https://openlibrary.org/)
 * [Project Gutenberg](https://www.gutenberg.org/)
 * [WikiBooks](https://en.wikibooks.org/wiki/Main_Page)
 
@@ -69,6 +70,9 @@
 ## Paste Service
 * [Pastebin](http://pastebin.com/)
 
+## Public Domain
+* [Internet Archive](https://archive.org/)
+
 ## Questions & Answers
 * [Quora](https://www.quora.com/)
 * [Yahoo Answers](https://answers.yahoo.com/)
@@ -96,5 +100,14 @@
 ## Video Sharing
 * [Youtube](https://www.youtube.com)
 * [Vimeo](https://vimeo.com/)
+
+## Web Archive
+* [Wayback Machine](https://archive.org/web/)
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Shane Bowman has waived all copyright and related or neighbouring rights to this work.
 
 
