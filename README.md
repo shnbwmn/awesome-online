@@ -54,6 +54,9 @@
 * [Open2Study](https://www.open2study.com/)
 * [Open Culture](http://www.openculture.com/)
 
+## English
+* [Vocabulary.com](https://www.vocabulary.com/)
+
 ## File Sharing
 * [Temp Share](https://temp-share.com/home)
 
