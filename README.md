@@ -76,6 +76,7 @@
 ## Search
 * [DuckDuckGo](https://duckduckgo.com/)
 * [Searx](https://searx.me/)
+* [Wolfram Alpha](https://www.wolframalpha.com/)
 
 ## Software
 * [AlternativeTo](http://alternativeto.net/)
