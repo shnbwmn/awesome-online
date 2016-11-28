@@ -4,7 +4,7 @@
 > Curated list of awesome online apps & sites.
 
 ## Art
-* [Google Arts and Culture](https://www.google.com/culturalinstitute/beta/u/0/) / [*giga*](http://gigafineart.herokuapp.com/gcidownload) /  formerly *Google Art Project*
+* [**Google Arts and Culture**](https://www.google.com/culturalinstitute/beta/u/0/) / [*giga*](http://gigafineart.herokuapp.com/gcidownload), [*quora*](https://www.quora.com/Is-there-a-way-to-extract-and-save-the-high-resolution-images-from-the-Google-art-project) /  formerly *Google Art Project*
 * [Quickposes](https://www.quickposes.com/)
 * [The Met](http://www.metmuseum.org/art/collection)
 
