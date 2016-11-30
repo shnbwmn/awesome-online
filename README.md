@@ -9,7 +9,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ## Contents
 
-> [*Art*](#art), [*Bible Study*](#bible-study), [*Bookmarks*](#bookmarks), [*Books and Publications*](#books-and-publications), [*CAD*](#cad), [*Calculate*](#calculate), [*Colour Picking*](#colour-picking), [*Communities*](#communities), [*Computer Graphics*](#computer-graphics), [*Design*](#design), [*Discovery*](#discovery), [*Document Editing*](#document-editing), [*Education*](#education), [*English*](#english), [*File Sharing*](#file-sharing), [*Image Uploading*](#image-uploading), [*IRC*](#irc), [*Paste Service*](#paste-service), [*Public Domain*](#public-domain), [*Questions and Answers*](#questions-and-answers), [*Read Later*](#read-later), [*Search*](#search), [*Software*](#software), [*Stock Photos*](#stock-photos), [*Storage*](#storage), [*Time*](#time), [*Video Sharing*](#video-sharing), [*Web Archive*](#web-archive)
+> [*Art*](#art) | [*Bible Study*](#bible-study) | [*Bookmarks*](#bookmarks) | [*Books and Publications*](#books-and-publications) | [*CAD*](#cad) | [*Calculate*](#calculate) | [*Colour Picking*](#colour-picking) | [*Communities*](#communities) | [*Computer Graphics*](#computer-graphics) | [*Design*](#design) | [*Discovery*](#discovery) | [*Document Editing*](#document-editing) | [*Education*](#education) | [*English*](#english) | [*File Sharing*](#file-sharing) | [*Image Uploading*](#image-uploading) | [*IRC*](#irc) | [*Paste Service*](#paste-service) | [*Public Domain*](#public-domain) | [*Questions and Answers*](#questions-and-answers) | [*Read Later*](#read-later) | [*Search*](#search) | [*Software*](#software) | [*Stock Photos*](#stock-photos) | [*Storage*](#storage) | [*Time*](#time) | [*Video Sharing*](#video-sharing) | [*Web Archive*](#web-archive)
 
 ## Art
 * [**Google Arts and Culture**](https://www.google.com/culturalinstitute/beta/u/0/) / [*giga*](http://gigafineart.herokuapp.com/gcidownload), [*quora*](https://www.quora.com/Is-there-a-way-to-extract-and-save-the-high-resolution-images-from-the-Google-art-project) /  formerly *Google Art Project*
@@ -121,7 +121,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**OneDrive**](https://onedrive.live.com/)
 
 ## Time
-* [**Time and Date](https://www.timeanddate.com/)
+* [**Time and Date**](https://www.timeanddate.com/)
 
 ## Video Sharing
 * [**Youtube**](https://www.youtube.com)
