@@ -13,121 +13,122 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ## Art
 * [**Google Arts and Culture**](https://www.google.com/culturalinstitute/beta/u/0/) / [*giga*](http://gigafineart.herokuapp.com/gcidownload), [*quora*](https://www.quora.com/Is-there-a-way-to-extract-and-save-the-high-resolution-images-from-the-Google-art-project) /  formerly *Google Art Project*
-* [Quickposes](https://www.quickposes.com/)
-* [The Met](http://www.metmuseum.org/art/collection)
+* [**Quickposes**](https://www.quickposes.com/)
+* [**The Met**](http://www.metmuseum.org/art/collection)
 
 ## Bible Study
-* [BibleGateway](https://www.biblegateway.com/)
-* [BibleHub](http://biblehub.com)
+* [**BibleGateway**](https://www.biblegateway.com/)
+* [**BibleHub**](http://biblehub.com)
 
 ## Bookmarks
-* [Google Bookmarks](https://www.google.com/bookmarks/)
+* [**Google Bookmarks**](https://www.google.com/bookmarks/)
 
 ## Books and Publications
-* [BookZZ](http://bookzz.org/)
-* [Forgotten Books](https://www.forgottenbooks.com/en)
-* [Issuu](https://issuu.com/)
-* [Library Genesis](http://gen.lib.rus.ec/)
-* [Open Library](https://openlibrary.org/)
-* [Project Gutenberg](https://www.gutenberg.org/)
-* [WikiBooks](https://en.wikibooks.org/wiki/Main_Page)
+* [**BookZZ**](http://bookzz.org/)
+* [**Forgotten Books**](https://www.forgottenbooks.com/en)
+* [**Issuu**](https://issuu.com/)
+* [**Library Genesis**](http://gen.lib.rus.ec/)
+* [**Open Library**](https://openlibrary.org/)
+* [**Project Gutenberg**](https://www.gutenberg.org/)
+* [**WikiBooks**](https://en.wikibooks.org/wiki/Main_Page)
 
 ## CAD
-* [OpenJSCAD](http://openjscad.org/)
+* [**OpenJSCAD**](http://openjscad.org/)
 
 ## Calculate
-* [fxsolver](http://www.fxsolver.com/)
+* [**fxsolver**](http://www.fxsolver.com/)
 
 ## Colour Picking
-* [Adobe Color](https://color.adobe.com/)
-* [Paletton](http://paletton.com/)
+* [**Adobe Color**](https://color.adobe.com/)
+* [**Paletton**](http://paletton.com/)
 
 ## Communities
-* [Reddit](https://www.reddit.com/)
+* [**Reddit**](https://www.reddit.com/)
 
 ## Computer Graphics
-* [ArtStation](https://www.artstation.com/)
-* [CGPress](http://cgpress.org/)
-* [CGSociety](http://www.cgsociety.org/)
+* [**ArtStation**](https://www.artstation.com/)
+* [**CGPress**](http://cgpress.org/)
+* [**CGSociety**](http://www.cgsociety.org/)
 
 ## Design
-* [Adobe Create](http://create.adobe.com/)
+* [**Adobe Create**](http://create.adobe.com/)
 
 ## Discounts
-* [Giveaway Club](http://giveaway-club.com/)
-* [Giveaway Of The Day](https://www.giveawayoftheday.com/)
-* [SharewareOnSale](http://sharewareonsale.com/)
+* [**Giveaway Club**](http://giveaway-club.com/)
+* [**Giveaway Of The Day**](https://www.giveawayoftheday.com/)
+* [**SharewareOnSale**](http://sharewareonsale.com/)
 
 ## Discovery
-* [StumbleUpon](http://www.stumbleupon.com/)
+* [**StumbleUpon**](http://www.stumbleupon.com/)
 
 ## Document Editing
-* [Dillinger](http://dillinger.io/)
-* Google [Docs](https://docs.google.com/document/u/0/), [Sheets](https://docs.google.com/spreadsheets/u/0/), [Slides](https://docs.google.com/presentation/u/0/), [Forms](https://docs.google.com/forms/u/0/)
-* [StackEdit](https://stackedit.io/)
+* [**Dillinger**](http://dillinger.io/)
+* Google [**Docs**](https://docs.google.com/document/u/0/) | [**Sheets**](https://docs.google.com/spreadsheets/u/0/) | [**Slides**](https://docs.google.com/presentation/u/0/) | [**Forms**](https://docs.google.com/forms/u/0/)
+* [**StackEdit**](https://stackedit.io/)
 
 ## Education
-* [Coursera](https://www.coursera.org/)
-* [EdX](https://www.edx.org/)
-* [Open2Study](https://www.open2study.com/)
-* [Open Culture](http://www.openculture.com/)
+* [**Coursera**](https://www.coursera.org/)
+* [**EdX**](https://www.edx.org/)
+* [**Open2Study**](https://www.open2study.com/)
+* [**Open Culture**](http://www.openculture.com/)
 
 ## English
-* [Vocabulary.com](https://www.vocabulary.com/)
+* [**Vocabulary.com**](https://www.vocabulary.com/)
 
 ## File Sharing
-* [Temp Share](https://temp-share.com/home)
+* [**Temp Share**](https://temp-share.com/home)
 
 ## Image Uploading
-* [Imgur](http://imgur.com/)
-* [Flickr](https://www.flickr.com/)
-* [Photobucket](http://photobucket.com/)
-* [Google Photos](https://photos.google.com/)
-* [PostImage](http://postimage.org/)
+* [**Imgur**](http://imgur.com/)
+* [**Flickr**](https://www.flickr.com/)
+* [**Photobucket**](http://photobucket.com/)
+* [**Google Photos**](https://photos.google.com/)
+* [**PostImage**](http://postimage.org/)
 
 ## IRC
-* [QuakeNet Web IRC](https://webchat.quakenet.org/)
+* [**QuakeNet Web IRC**](https://webchat.quakenet.org/)
 
 ## Paste Service
-* [Pastebin](http://pastebin.com/)
+* [**Pastebin**](http://pastebin.com/)
 
 ## Public Domain
-* [Internet Archive](https://archive.org/)
+* [**Internet Archive**](https://archive.org/)
 
 ## Questions and Answers
-* [Quora](https://www.quora.com/)
-* [Yahoo Answers](https://answers.yahoo.com/)
+* [**Quora**](https://www.quora.com/)
+* [**StackExchange**](http://stackexchange.com/)
+* [**Yahoo Answers**](https://answers.yahoo.com/)
 
 ## Read Later
-* [Pocket](https://getpocket.com)
+* [**Pocket**](https://getpocket.com)
 
 ## Search
-* [DuckDuckGo](https://duckduckgo.com/)
-* [Searx](https://searx.me/)
-* [Wolfram Alpha](https://www.wolframalpha.com/)
+* [**DuckDuckGo**](https://duckduckgo.com/)
+* [**Searx**](https://searx.me/)
+* [**Wolfram Alpha**](https://www.wolframalpha.com/)
 
 ## Software
-* [AlternativeTo](http://alternativeto.net/)
-* [FOSSHub](https://www.fosshub.com/)
+* [**AlternativeTo**](http://alternativeto.net/)
+* [**FOSSHub**](https://www.fosshub.com/)
 
 ## Stock Photos
-* [Pixabay](https://pixabay.com/)
+* [**Pixabay**](https://pixabay.com/)
 
 ## Storage
-* [Dropbox](https://www.dropbox.com/)
-* [Google Drive](https://drive.google.com/)
-* [MEGA](https://mega.nz/)
-* [OneDrive](https://onedrive.live.com/)
+* [**Dropbox**](https://www.dropbox.com/)
+* [**Google Drive**](https://drive.google.com/)
+* [**MEGA**](https://mega.nz/)
+* [**OneDrive**](https://onedrive.live.com/)
 
 ## Time
-* [Time and Date](https://www.timeanddate.com/)
+* [**Time and Date](https://www.timeanddate.com/)
 
 ## Video Sharing
-* [Youtube](https://www.youtube.com)
-* [Vimeo](https://vimeo.com/)
+* [**Youtube**](https://www.youtube.com)
+* [**Vimeo**](https://vimeo.com/)
 
 ## Web Archive
-* [Wayback Machine](https://archive.org/web/)
+* [**Wayback Machine**](https://archive.org/web/)
 
 ## License
 
