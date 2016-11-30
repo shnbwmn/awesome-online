@@ -3,6 +3,14 @@
 
 > Curated list of awesome online apps & sites.
 
+Create a [pull request](https://github.com/shnbwmn/awesome-online/pulls) to add programs | Start an [issue](https://github.com/shnbwmn/awesome-online/issues) for corrections or discussions
+
+_See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games), [**Awesome Online**](https://github.com/shnbwmn/awesome-online), [**Awesome Mobile**](https://github.com/shnbwmn/awesome-mobile)
+
+## Contents
+
+> [*Art*](#art), [*Bible Study*](#bible-study), [*Bookmarks*](#bookmarks), [*Books and Publications*](#books-and-publications), [*CAD*](#cad), [*Calculate*](#calculate), [*Colour Picking*](#colour-picking), [*Communities*](#communities), [*Computer Graphics*](#computer-graphics), [*Design*](#design), [*Discovery*](#discovery), [*Document Editing*](#document-editing), [*Education*](#education), [*English*](#english), [*File Sharing*](#file-sharing), [*Image Uploading*](#image-uploading), [*IRC*](#irc), [*Paste Service*](#paste-service), [*Public Domain*](#public-domain), [*Questions and Answers*](#questions-and-answers), [*Read Later*](#read-later), [*Search*](#search), [*Software*](#software), [*Stock Photos*](#stock-photos), [*Storage*](#storage), [*Time*](#time), [*Video Sharing*](#video-sharing), [*Web Archive*](#web-archive)
+
 ## Art
 * [**Google Arts and Culture**](https://www.google.com/culturalinstitute/beta/u/0/) / [*giga*](http://gigafineart.herokuapp.com/gcidownload), [*quora*](https://www.quora.com/Is-there-a-way-to-extract-and-save-the-high-resolution-images-from-the-Google-art-project) /  formerly *Google Art Project*
 * [Quickposes](https://www.quickposes.com/)
@@ -15,7 +23,7 @@
 ## Bookmarks
 * [Google Bookmarks](https://www.google.com/bookmarks/)
 
-## Books & Publications
+## Books and Publications
 * [BookZZ](http://bookzz.org/)
 * [Forgotten Books](https://www.forgottenbooks.com/en)
 * [Issuu](https://issuu.com/)
@@ -41,6 +49,17 @@
 * [ArtStation](https://www.artstation.com/)
 * [CGPress](http://cgpress.org/)
 * [CGSociety](http://www.cgsociety.org/)
+
+## Design
+* [Adobe Create](http://create.adobe.com/)
+
+## Discounts
+* [Giveaway Club](http://giveaway-club.com/)
+* [Giveaway Of The Day](https://www.giveawayoftheday.com/)
+* [SharewareOnSale](http://sharewareonsale.com/)
+
+## Discovery
+* [StumbleUpon](http://www.stumbleupon.com/)
 
 ## Document Editing
 * [Dillinger](http://dillinger.io/)
@@ -75,7 +94,7 @@
 ## Public Domain
 * [Internet Archive](https://archive.org/)
 
-## Questions & Answers
+## Questions and Answers
 * [Quora](https://www.quora.com/)
 * [Yahoo Answers](https://answers.yahoo.com/)
 
@@ -89,6 +108,7 @@
 
 ## Software
 * [AlternativeTo](http://alternativeto.net/)
+* [FOSSHub](https://www.fosshub.com/)
 
 ## Stock Photos
 * [Pixabay](https://pixabay.com/)
@@ -98,6 +118,9 @@
 * [Google Drive](https://drive.google.com/)
 * [MEGA](https://mega.nz/)
 * [OneDrive](https://onedrive.live.com/)
+
+## Time
+* [Time and Date](https://www.timeanddate.com/)
 
 ## Video Sharing
 * [Youtube](https://www.youtube.com)
