@@ -110,6 +110,8 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 ## Software
 * [**AlternativeTo**](http://alternativeto.net/)
 * [**FOSSHub**](https://www.fosshub.com/)
+* [**GitHub**](https://github.com/) / :)
+* [**Sourceforge**](https://sourceforge.net/)
 
 ## Stock Photos
 * [**Pixabay**](https://pixabay.com/)
