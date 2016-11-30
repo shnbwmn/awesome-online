@@ -5,7 +5,7 @@
 
 Create a [pull request](https://github.com/shnbwmn/awesome-online/pulls) to add programs | Start an [issue](https://github.com/shnbwmn/awesome-online/issues) for corrections or discussions
 
-_See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable), [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games), [**Awesome Online**](https://github.com/shnbwmn/awesome-online), [**Awesome Mobile**](https://github.com/shnbwmn/awesome-mobile)
+_See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable), [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games), [**Awesome Mobile**](https://github.com/shnbwmn/awesome-mobile)
 
 ## Contents
 
