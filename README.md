@@ -57,6 +57,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Giveaway Club**](http://giveaway-club.com/)
 * [**Giveaway Of The Day**](https://www.giveawayoftheday.com/)
 * [**SharewareOnSale**](http://sharewareonsale.com/)
+* [**WindowsDeal**](http://www.windowsdeal.com/)
 
 ## Discovery
 * [**StumbleUpon**](http://www.stumbleupon.com/)
