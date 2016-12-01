@@ -9,7 +9,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Contents
 
-> [*Art*](#art) | [*Bible Study*](#bible-study) | [*Bookmarks*](#bookmarks) | [*Books and Publications*](#books-and-publications) | [*CAD*](#cad) | [*Calculate*](#calculate) | [*Colour Picking*](#colour-picking) | [*Communities*](#communities) | [*Computer Graphics*](#computer-graphics) | [*Design*](#design) | [*Discovery*](#discovery) | [*Document Editing*](#document-editing) | [*Education*](#education) | [*English*](#english) | [*File Sharing*](#file-sharing) | [*Image Uploading*](#image-uploading) | [*IRC*](#irc) | [*Paste Service*](#paste-service) | [*Public Domain*](#public-domain) | [*Questions and Answers*](#questions-and-answers) | [*Read Later*](#read-later) | [*Search*](#search) | [*Software*](#software) | [*Stock Photos*](#stock-photos) | [*Storage*](#storage) | [*Time*](#time) | [*Video Sharing*](#video-sharing) | [*Web Archive*](#web-archive)
+> [*Art*](#art) | [*Bible Study*](#bible-study) | [*Bookmarks*](#bookmarks) | [*Books and Publications*](#books-and-publications) | [*CAD*](#cad) | [*Calculate*](#calculate) | [*Colour Picking*](#colour-picking) | [*Communities*](#communities) | [*Computer Graphics*](#computer-graphics) | [*Design*](#design) | [*Discovery*](#discovery) | [*Document Editing*](#document-editing) | [*Education*](#education) | [*Email*](#email) | [*English*](#english) | [*File Sharing*](#file-sharing) | [*Image Uploading*](#image-uploading) | [*IRC*](#irc) | [*Paste Service*](#paste-service) | [*Public Domain*](#public-domain) | [*Questions and Answers*](#questions-and-answers) | [*Read Later*](#read-later) | [*Search*](#search) | [*Software*](#software) | [*Stock Photos*](#stock-photos) | [*Storage*](#storage) | [*Technology*](#technology) | [*Time*](#time) | [*Video Sharing*](#video-sharing) | [*Web Archive*](#web-archive)
 
 ## Art
 * [**Google Arts and Culture**](https://www.google.com/culturalinstitute/beta/u/0/) / [*giga*](http://gigafineart.herokuapp.com/gcidownload), [*quora*](https://www.quora.com/Is-there-a-way-to-extract-and-save-the-high-resolution-images-from-the-Google-art-project) /  formerly *Google Art Project*
@@ -64,7 +64,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Document Editing
 * [**Dillinger**](http://dillinger.io/)
-* Google [**Docs**](https://docs.google.com/document/u/0/) | [**Sheets**](https://docs.google.com/spreadsheets/u/0/) | [**Slides**](https://docs.google.com/presentation/u/0/) | [**Forms**](https://docs.google.com/forms/u/0/)
+* Google [**Docs**](https://docs.google.com/document/) | [**Sheets**](https://docs.google.com/spreadsheets/) | [**Slides**](https://docs.google.com/presentation/) | [**Forms**](https://docs.google.com/forms/)
 * [**StackEdit**](https://stackedit.io/)
 
 ## Education
@@ -72,6 +72,9 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**EdX**](https://www.edx.org/)
 * [**Open2Study**](https://www.open2study.com/)
 * [**Open Culture**](http://www.openculture.com/)
+
+## Email
+* [**Gmail**](https://mail.google.com/)
 
 ## English
 * [**Vocabulary.com**](https://www.vocabulary.com/)
@@ -122,6 +125,9 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Google Drive**](https://drive.google.com/)
 * [**MEGA**](https://mega.nz/)
 * [**OneDrive**](https://onedrive.live.com/)
+
+## Technology
+* [**GHacks**](http://www.ghacks.net/)
 
 ## Time
 * [**Time and Date**](https://www.timeanddate.com/)
