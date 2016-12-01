@@ -9,7 +9,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Contents
 
-> [*Art*](#art) | [*Bible Study*](#bible-study) | [*Bookmarks*](#bookmarks) | [*Books and Publications*](#books-and-publications) | [*CAD*](#cad) | [*Calculate*](#calculate) | [*Colour Picking*](#colour-picking) | [*Communities*](#communities) | [*Computer Graphics*](#computer-graphics) | [*Design*](#design) | [*Discovery*](#discovery) | [*Document Editing*](#document-editing) | [*Education*](#education) | [*Email*](#email) | [*English*](#english) | [*File Sharing*](#file-sharing) | [*Image Uploading*](#image-uploading) | [*IRC*](#irc) | [*Notes*](#notes) | [*Paste Service*](#paste-service) | [*Public Domain*](#public-domain) | [*Questions and Answers*](#questions-and-answers) | [*Read Later*](#read-later) | [*Search*](#search) | [*Software*](#software) | [*Stock Photos*](#stock-photos) | [*Storage*](#storage) | [*Talks*](#talks) | [*Technology*](#technology) | [*Time*](#time) | [*Video Sharing*](#video-sharing) | [*Web Archive*](#web-archive)
+> [*Art*](#art) | [*Bible Study*](#bible-study) | [*Bookmarks*](#bookmarks) | [*Books and Publications*](#books-and-publications) | [*CAD*](#cad) | [*Calculate*](#calculate) | [*Colour Picking*](#colour-picking) | [*Communities*](#communities) | [*Computer Graphics*](#computer-graphics) | [*Design*](#design) | [*Discovery*](#discovery) | [*Document Editing*](#document-editing) | [*Education*](#education) | [*Email*](#email) | [*English*](#english) | [*File Sharing*](#file-sharing) | [*Image Uploading*](#image-uploading) | [*IRC*](#irc) | [*Notes*](#notes) | [*Passwords*](#passwords) | [*Paste Service*](#paste-service) | [*Project Management*](#project-management) | [*Public Domain*](#public-domain) | [*Questions and Answers*](#questions-and-answers) | [*Read Later*](#read-later) | [*Search*](#search) | [*Software*](#software) | [*Stock Photos*](#stock-photos) | [*Storage*](#storage) | [*Talks*](#talks) | [*Technology*](#technology) | [*Time*](#time) | [*Video Sharing*](#video-sharing) | [*Web Archive*](#web-archive)
 
 ## Art
 * [**Google Arts and Culture**](https://www.google.com/culturalinstitute/beta/u/0/) / [*giga*](http://gigafineart.herokuapp.com/gcidownload), [*quora*](https://www.quora.com/Is-there-a-way-to-extract-and-save-the-high-resolution-images-from-the-Google-art-project) /  formerly *Google Art Project*
@@ -95,9 +95,16 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 ## Notes
 * [**Google Keep**](https://keep.google.com/)
 * [**Microsoft OneNote**](https://www.onenote.com/hrd)
+* [**SimpleNote**](https://simplenote.com/)
+
+## Passwords
+* [**LastPass**](https://www.lastpass.com/)
 
 ## Paste Service
 * [**Pastebin**](http://pastebin.com/)
+
+## Project Management
+* [**Trello**](https://trello.com/)
 
 ## Public Domain
 * [**Internet Archive**](https://archive.org/)
