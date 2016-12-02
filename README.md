@@ -95,6 +95,9 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 ## IRC
 * [**QuakeNet Web IRC**](https://webchat.quakenet.org/)
 
+## Movies
+* [**Putlocker**](http://putlockers.ch/)
+
 ## Notes
 * [**Google Keep**](https://keep.google.com/)
 * [**Microsoft OneNote**](https://www.onenote.com/hrd)
@@ -124,6 +127,11 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**DuckDuckGo**](https://duckduckgo.com/)
 * [**Searx**](https://searx.me/)
 * [**Wolfram Alpha**](https://www.wolframalpha.com/)
+
+## Series
+* [**KissCartoon**](http://kisscartoon.me/)
+* [**Toonova**](http://toonova.com/)
+* [**WatchCartoonOnline**](https://www.watchcartoononline.io/)
 
 ## Software
 * [**AlternativeTo**](http://alternativeto.net/)
