@@ -7,27 +7,108 @@ Create a [pull request](https://github.com/shnbwmn/awesome-online/pulls) to add 
 
 _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable), [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games), [**Awesome Mobile**](https://github.com/shnbwmn/awesome-mobile)
 
-## Contents
+## Graphics
 
-> [*Art*](#art) | [*Bible Study*](#bible-study) | [*Blogging*](#blogging) | [*Bookmarks*](#bookmarks) | [*Books and Publications*](#books-and-publications) | [*CAD*](#cad) | [*Calculate*](#calculate) | [*Colour Picking*](#colour-picking) | [*Communities*](#communities) | [*Computer Graphics*](#computer-graphics) | [*Design*](#design) | [*Discovery*](#discovery) | [*Document Editing*](#document-editing) | [*Education*](#education) | [*Email*](#email) | [*English*](#english) | [*File Sharing*](#file-sharing) | [*Image Uploading*](#image-uploading) | [*IRC*](#irc) | [*Movies*](#movies) | [*Notes*](#notes) | [*Passwords*](#passwords) | [*Paste Service*](#paste-service) | [*Project Management*](#project-management) | [*Public Domain*](#public-domain) | [*Questions and Answers*](#questions-and-answers) | [*Read Later*](#read-later) | [*Search*](#search) | [*Series*](#series) | [*Software*](#software) | [*Stock Photos*](#stock-photos) | [*Storage*](#storage) | [*Talks*](#talks) | [*Technology*](#technology) | [*Time*](#time) | [*Video Sharing*](#video-sharing) | [*Web Archive*](#web-archive)
-
-## Art
+### Art
 * [**Google Arts and Culture**](https://www.google.com/culturalinstitute/beta/u/0/) / [*giga*](http://gigafineart.herokuapp.com/gcidownload), [*quora*](https://www.quora.com/Is-there-a-way-to-extract-and-save-the-high-resolution-images-from-the-Google-art-project) /  formerly *Google Art Project*
 * [**Quickposes**](https://www.quickposes.com/)
 * [**The Met**](http://www.metmuseum.org/art/collection)
 
-## Bible Study
+### CAD
+* [**OpenJSCAD**](http://openjscad.org/)
+
+### Colour Picking
+* [**Adobe Color**](https://color.adobe.com/)
+* [**Paletton**](http://paletton.com/)
+
+### Image Uploading
+* [**Imgur**](http://imgur.com/)
+* [**Flickr**](https://www.flickr.com/)
+* [**Photobucket**](http://photobucket.com/)
+* [**Google Photos**](https://photos.google.com/)
+* [**PostImage**](http://postimage.org/)
+
+### Inspiration
+* [**ArtStation**](https://www.artstation.com/)
+* [**CGPress**](http://cgpress.org/)
+* [**CGSociety**](http://www.cgsociety.org/)
+* [**Adobe Create**](http://create.adobe.com/)
+
+### Stock Photos
+* [**Pixabay**](https://pixabay.com/)
+
+## Education
+
+### Bible Study
 * [**BibleGateway**](https://www.biblegateway.com/)
 * [**BibleHub**](http://biblehub.com)
+
+### Learning
+* [**Coursera**](https://www.coursera.org/)
+* [**EdX**](https://www.edx.org/)
+* [**Open2Study**](https://www.open2study.com/)
+* [**Open Culture**](http://www.openculture.com/) / lots of other stuff too
+
+### Talks
+* [**TED**](https://www.ted.com/) | [**X**](https://www.ted.com/about/programs-initiatives/tedx-program) | [**Ed**](https://ed.ted.com/) / [*youtube*](https://www.youtube.com/user/TEDtalksDirector), [*cape*](http://www.tedxcapetown.org/)
+
+### Maths
+* [**fxsolver**](http://www.fxsolver.com/)
+
+## Internet
+
+### Bookmarks
+* [**Google Bookmarks**](https://www.google.com/bookmarks/)
+
+### Discovery
+* [**StumbleUpon**](http://www.stumbleupon.com/)
+
+### Communities
+* [**Reddit**](https://www.reddit.com/)
+
+### Email
+* [**Gmail**](https://mail.google.com/)
+
+### Questions and Answers
+* [**Quora**](https://www.quora.com/)
+* [**StackExchange**](http://stackexchange.com/)
+* [**Yahoo Answers**](https://answers.yahoo.com/)
+
+### Search
+* [**DuckDuckGo**](https://duckduckgo.com/)
+* [**Searx**](https://searx.me/)
+* [**Wolfram Alpha**](https://www.wolframalpha.com/)
+
+## Media
+
+### Movies
+* [**Putlocker**](http://putlockers.ch/)
+
+## Series
+* [**KissCartoon**](http://kisscartoon.me/)
+* [**Toonova**](http://toonova.com/)
+* [**WatchCartoonOnline**](https://www.watchcartoononline.io/)
+
+
+
+## Utilities
 
 ## Blogging
 * [**Medium**](https://medium.com/)
 * [**WordPress**](https://wordpress.com/)
 
-## Bookmarks
-* [**Google Bookmarks**](https://www.google.com/bookmarks/)
+## Discounts
+* [**Giveaway Club**](http://giveaway-club.com/)
+* [**Giveaway Of The Day**](https://www.giveawayoftheday.com/)
+* [**SharewareOnSale**](http://sharewareonsale.com/)
+* [**WindowsDeal**](http://www.windowsdeal.com/)
 
-## Books and Publications
+## Document Editing
+* [**Dillinger**](http://dillinger.io/)
+* Google [**Docs**](https://docs.google.com/document/) | [**Sheets**](https://docs.google.com/spreadsheets/) | [**Slides**](https://docs.google.com/presentation/) | [**Forms**](https://docs.google.com/forms/)
+* [**StackEdit**](https://stackedit.io/)
+
+### Books and Publications
 * [**BookZZ**](http://bookzz.org/)
 * [**Forgotten Books**](https://www.forgottenbooks.com/en)
 * [**Issuu**](https://issuu.com/)
@@ -36,68 +117,14 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Project Gutenberg**](https://www.gutenberg.org/)
 * [**WikiBooks**](https://en.wikibooks.org/wiki/Main_Page)
 
-## CAD
-* [**OpenJSCAD**](http://openjscad.org/)
-
-## Calculate
-* [**fxsolver**](http://www.fxsolver.com/)
-
-## Colour Picking
-* [**Adobe Color**](https://color.adobe.com/)
-* [**Paletton**](http://paletton.com/)
-
-## Communities
-* [**Reddit**](https://www.reddit.com/)
-
-## Computer Graphics
-* [**ArtStation**](https://www.artstation.com/)
-* [**CGPress**](http://cgpress.org/)
-* [**CGSociety**](http://www.cgsociety.org/)
-
-## Design
-* [**Adobe Create**](http://create.adobe.com/)
-
-## Discounts
-* [**Giveaway Club**](http://giveaway-club.com/)
-* [**Giveaway Of The Day**](https://www.giveawayoftheday.com/)
-* [**SharewareOnSale**](http://sharewareonsale.com/)
-* [**WindowsDeal**](http://www.windowsdeal.com/)
-
-## Discovery
-* [**StumbleUpon**](http://www.stumbleupon.com/)
-
-## Document Editing
-* [**Dillinger**](http://dillinger.io/)
-* Google [**Docs**](https://docs.google.com/document/) | [**Sheets**](https://docs.google.com/spreadsheets/) | [**Slides**](https://docs.google.com/presentation/) | [**Forms**](https://docs.google.com/forms/)
-* [**StackEdit**](https://stackedit.io/)
-
-## Education
-* [**Coursera**](https://www.coursera.org/)
-* [**EdX**](https://www.edx.org/)
-* [**Open2Study**](https://www.open2study.com/)
-* [**Open Culture**](http://www.openculture.com/)
-
-## Email
-* [**Gmail**](https://mail.google.com/)
-
 ## English
 * [**Vocabulary.com**](https://www.vocabulary.com/)
 
 ## File Sharing
 * [**Temp Share**](https://temp-share.com/home)
 
-## Image Uploading
-* [**Imgur**](http://imgur.com/)
-* [**Flickr**](https://www.flickr.com/)
-* [**Photobucket**](http://photobucket.com/)
-* [**Google Photos**](https://photos.google.com/)
-* [**PostImage**](http://postimage.org/)
-
 ## IRC
 * [**QuakeNet Web IRC**](https://webchat.quakenet.org/)
-
-## Movies
-* [**Putlocker**](http://putlockers.ch/)
 
 ## Notes
 * [**Google Keep**](https://keep.google.com/)
@@ -116,23 +143,8 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 ## Public Domain
 * [**Internet Archive**](https://archive.org/)
 
-## Questions and Answers
-* [**Quora**](https://www.quora.com/)
-* [**StackExchange**](http://stackexchange.com/)
-* [**Yahoo Answers**](https://answers.yahoo.com/)
-
 ## Read Later
 * [**Pocket**](https://getpocket.com)
-
-## Search
-* [**DuckDuckGo**](https://duckduckgo.com/)
-* [**Searx**](https://searx.me/)
-* [**Wolfram Alpha**](https://www.wolframalpha.com/)
-
-## Series
-* [**KissCartoon**](http://kisscartoon.me/)
-* [**Toonova**](http://toonova.com/)
-* [**WatchCartoonOnline**](https://www.watchcartoononline.io/)
 
 ## Software
 * [**AlternativeTo**](http://alternativeto.net/)
@@ -140,17 +152,11 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**GitHub**](https://github.com/) / :)
 * [**Sourceforge**](https://sourceforge.net/)
 
-## Stock Photos
-* [**Pixabay**](https://pixabay.com/)
-
 ## Storage
 * [**Dropbox**](https://www.dropbox.com/)
 * [**Google Drive**](https://drive.google.com/)
 * [**MEGA**](https://mega.nz/)
 * [**OneDrive**](https://onedrive.live.com/)
-
-## Talks
-* [**TED**](https://www.ted.com/) | [**X**](https://www.ted.com/about/programs-initiatives/tedx-program) | [**Ed**](https://ed.ted.com/) / [*youtube*](https://www.youtube.com/user/TEDtalksDirector), [*cape*](http://www.tedxcapetown.org/)
 
 ## Technology
 * [**GHacks**](http://www.ghacks.net/)
