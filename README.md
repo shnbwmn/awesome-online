@@ -22,6 +22,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Blogging
 * [**Medium**](https://medium.com/)
+* [**WordPress**](https://wordpress.com/)
 
 ## Bookmarks
 * [**Google Bookmarks**](https://www.google.com/bookmarks/)
