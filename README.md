@@ -136,9 +136,13 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Software
 * [**AlternativeTo**](http://alternativeto.net/)
+* [**Fileforum Betanews**](http://fileforum.betanews.com/)
 * [**FOSSHub**](https://www.fosshub.com/)
+* [**FreewareFiles**](http://www.freewarefiles.com/)
 * [**GitHub**](https://github.com/) / :)
+* [**Softpedia**](http://www.softpedia.com/)
 * [**Sourceforge**](https://sourceforge.net/)
+* [**SnapFiles**](http://www.snapfiles.com/)
 
 ## Stock Photos
 * [**Pixabay**](https://pixabay.com/)
