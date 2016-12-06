@@ -9,7 +9,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Contents
 
-> [*3D*](#3d) | [*Art*](#art) | [*Bible Study*](#bible-study) | [*Blogging*](#blogging) | [*Bookmarks*](#bookmarks) | [*Books and Publications*](#books-and-publications) | [*CAD*](#cad) | [*Calculate*](#calculate) | [*Colour Picking*](#colour-picking) | [*Communities*](#communities) | [*Computer Graphics*](#computer-graphics) | [*Design*](#design) | [*Discovery*](#discovery) | [*Documentation*](#documentation) | [*Document Editing*](#document-editing) | [*Education*](#education) | [*Email*](#email) | [*English*](#english) | [*File Sharing*](#file-sharing) | [*Image Uploading*](#image-uploading) | [*IRC*](#irc) | [*Movies*](#movies) | [*Notes*](#notes) | [*Passwords*](#passwords) | [*Paste Service*](#paste-service) | [*Project Management*](#project-management) | [*Public Domain*](#public-domain) | [*Questions and Answers*](#questions-and-answers) | [*Read Later*](#read-later) | [*Search*](#search) | [*Series*](#series) | [*Software*](#software) | [*Stock Photos*](#stock-photos) | [*Storage*](#storage) | [*Talks*](#talks) | [*Technology*](#technology) | [*Time*](#time) | [*Video Sharing*](#video-sharing) | [*Web Archive*](#web-archive)
+> [*3D*](#3d) | [*Art*](#art) | [*Bible Study*](#bible-study) | [*Blogging*](#blogging) | [*Bookmarks*](#bookmarks) | [*Books and Publications*](#books-and-publications) | [*CAD*](#cad) | [*Calculate*](#calculate) | [*Chat*](#chat) | [*Colour Picking*](#colour-picking) | [*Communities*](#communities) | [*Computer Graphics*](#computer-graphics) | [*Design*](#design) | [*Discovery*](#discovery) | [*Documentation*](#documentation) | [*Document Editing*](#document-editing) | [*Education*](#education) | [*Email*](#email) | [*English*](#english) | [*File Sharing*](#file-sharing) | [*Image Uploading*](#image-uploading) | [*Movies*](#movies) | [*Notes*](#notes) | [*Passwords*](#passwords) | [*Paste Service*](#paste-service) | [*Project Management*](#project-management) | [*Public Domain*](#public-domain) | [*Questions and Answers*](#questions-and-answers) | [*Read Later*](#read-later) | [*Search*](#search) | [*Series*](#series) | [*Software*](#software) | [*Stock Photos*](#stock-photos) | [*Storage*](#storage) | [*Talks*](#talks) | [*Technology*](#technology) | [*Time*](#time) | [*Video Sharing*](#video-sharing) | [*Web Archive*](#web-archive)
 
 ## 3D
 * [**Blend4Web**](https://www.blend4web.com/en/)
@@ -46,6 +46,10 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Calculate
 * [**fxsolver**](http://www.fxsolver.com/)
+
+## Chat
+* [**Discord**](https://discordapp.com/) / [*pub*](https://discord.me/)
+* [**QuakeNet Web IRC**](https://webchat.quakenet.org/)
 
 ## Colour Picking
 * [**Adobe Color**](https://color.adobe.com/)
@@ -100,9 +104,6 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Photobucket**](http://photobucket.com/)
 * [**Google Photos**](https://photos.google.com/)
 * [**PostImage**](http://postimage.org/)
-
-## IRC
-* [**QuakeNet Web IRC**](https://webchat.quakenet.org/)
 
 ## Movies
 * [**Putlocker**](http://putlockers.ch/)
