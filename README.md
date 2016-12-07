@@ -17,7 +17,9 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Art
 * [**Google Arts and Culture**](https://www.google.com/culturalinstitute/beta/u/0/) / [*giga*](http://gigafineart.herokuapp.com/gcidownload), [*quora*](https://www.quora.com/Is-there-a-way-to-extract-and-save-the-high-resolution-images-from-the-Google-art-project) /  formerly *Google Art Project*
+* [**Pinterest**](https://pinterest.com)
 * [**Quickposes**](https://www.quickposes.com/)
+* [**Sotheby's**](http://www.sothebys.com/en.html)
 * [**The Met**](http://www.metmuseum.org/art/collection)
 
 ## Bible Study
