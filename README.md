@@ -21,6 +21,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Quickposes**](https://www.quickposes.com/)
 * [**Sotheby's**](http://www.sothebys.com/en.html)
 * [**The Met**](http://www.metmuseum.org/art/collection)
+* [**WebExhibits**](http://www.webexhibits.org/)
 
 ## Bible Study
 * [**BibleGateway**](https://www.biblegateway.com/)
