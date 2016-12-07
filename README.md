@@ -53,6 +53,8 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Colour Picking
 * [**Adobe Color**](https://color.adobe.com/)
+* [**COLOURlovers**](http://www.colourlovers.com/)
+* [**Coolors**](https://coolors.co/)
 * [**Paletton**](http://paletton.com/)
 
 ## Communities
