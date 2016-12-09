@@ -36,7 +36,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Google Bookmarks**](https://www.google.com/bookmarks/)
 
 ## Books and Publications
-* [**BookBub**](https://www.bookbub.com/home) | [**Landing**](http://landers.bookbub.com/covers/) / daily free and discounted ebooks
+* [**BookBub**](https://www.bookbub.com/home) | [**BookTalk**](http://booktalk.bookbub.com/) / [*landing*](http://landers.bookbub.com/covers/) / daily free and discounted ebooks
 * [**BookZZ**](http://bookzz.org/)
 * [**Forgotten Books**](https://www.forgottenbooks.com/en)
 * [**Issuu**](https://issuu.com/)
