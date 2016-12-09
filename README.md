@@ -29,12 +29,14 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Blogging
 * [**Medium**](https://medium.com/)
+* [**WaitButWhy**](http://waitbutwhy.com/)
 * [**WordPress**](https://wordpress.com/)
 
 ## Bookmarks
 * [**Google Bookmarks**](https://www.google.com/bookmarks/)
 
 ## Books and Publications
+* [**BookBub**](https://www.bookbub.com/home) | [**Landing**](http://landers.bookbub.com/covers/) / daily free and discounted ebooks
 * [**BookZZ**](http://bookzz.org/)
 * [**Forgotten Books**](https://www.forgottenbooks.com/en)
 * [**Issuu**](https://issuu.com/)
