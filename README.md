@@ -101,7 +101,9 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Gmail**](https://mail.google.com/)
 
 ## English
+* [**Dictionary.com**](http://www.dictionary.com/) | [**Thesaurus.com**](http://www.thesaurus.com/)
 * [**Vocabulary.com**](https://www.vocabulary.com/)
+* [**Wiktionary**](https://en.wiktionary.org/)
 
 ## File Sharing
 * [**Temp Share**](https://temp-share.com/home)
