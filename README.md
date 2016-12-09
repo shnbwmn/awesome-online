@@ -42,7 +42,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Issuu**](https://issuu.com/)
 * [**Library Genesis**](http://gen.lib.rus.ec/)
 * [**Open Library**](https://openlibrary.org/)
-* [**Packt**](https://www.packtpub.com/) | [**Daily Free eBook**](https://www.packtpub.com/packt/offers/free-learning)
+* [**Packt**](https://www.packtpub.com/) | [**Free Learning**](https://www.packtpub.com/packt/offers/free-learning) / daily free educational books
 * [**Project Gutenberg**](https://www.gutenberg.org/)
 * [**WikiBooks**](https://en.wikibooks.org/wiki/Main_Page)
 
