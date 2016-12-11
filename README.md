@@ -164,7 +164,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**SnapFiles**](http://www.snapfiles.com/)
 
 ## Stock Photos
-* [**Pixabay**](https://pixabay.com/)
+* [**Pixabay**](https://pixabay.com/) / [*standards*](https://pixabay.com/en/blog/posts/photography-training-and-image-quality-standards-22/#)
 
 ## Storage
 * [**Dropbox**](https://www.dropbox.com/)
