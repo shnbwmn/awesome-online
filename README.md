@@ -42,7 +42,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Issuu**](https://issuu.com/)
 * [**Library Genesis**](http://gen.lib.rus.ec/)
 * [**Open Library**](https://openlibrary.org/)
-* [**Packt**](https://www.packtpub.com/) | [**Free Learning**](https://www.packtpub.com/packt/offers/free-learning) / daily free educational ebooks
+* [**Packt**](https://www.packtpub.com/) | [**Mapt**](https://www.packtpub.com/mapt) | [**Free Learning**](https://www.packtpub.com/packt/offers/free-learning) / daily free educational ebooks
 * [**Project Gutenberg**](https://www.gutenberg.org/)
 * [**WikiBooks**](https://en.wikibooks.org/wiki/Main_Page)
 
@@ -92,6 +92,9 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**StackEdit**](https://stackedit.io/)
 
 ## Education
+
+[*mapt*](#books-and-publications)
+
 * [**Coursera**](https://www.coursera.org/)
 * [**EdX**](https://www.edx.org/)
 * [**Open2Study**](https://www.open2study.com/)
