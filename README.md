@@ -67,6 +67,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Reddit**](https://www.reddit.com/)
 
 ## Compression
+* [**Caesium**](https://saerasoft.com/caesium/online/)
 * [**TinyPNG**](https://tinypng.com/)
 
 ## Computer Graphics
