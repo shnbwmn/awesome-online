@@ -88,7 +88,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Document Editing
 * [**Dillinger**](http://dillinger.io/)
-* Google [**Docs**](https://docs.google.com/document/) | [**Sheets**](https://docs.google.com/spreadsheets/) | [**Slides**](https://docs.google.com/presentation/) | [**Forms**](https://docs.google.com/forms/)
+* [**Google Docs**](https://docs.google.com/document/) | [**Sheets**](https://docs.google.com/spreadsheets/) | [**Slides**](https://docs.google.com/presentation/) | [**Forms**](https://docs.google.com/forms/)
 * [**StackEdit**](https://stackedit.io/)
 
 ## Education
