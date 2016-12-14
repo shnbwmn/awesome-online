@@ -28,7 +28,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**BibleHub**](http://biblehub.com)
 
 ## Blogging
-* [**Gizmodo**](http://gizmodo.com/) | [**LifeHacker**](http://lifehacker.com/) | [**Jalopnik**](http://jalopnik.com/) | [**Jezebel**](http://jezebel.com/) | [**Kotaku**](http://kotaku.com/) | [**Deadspin**](http://deadspin.com/) / [*wiki*](https://en.wikipedia.org/wiki/Gawker_Media#List_of_Gizmodo_Media_blogs) / [*Gawker*](http://gawker.com/) shut down August 22nd 2016
+* [**Gizmodo**](http://gizmodo.com/) | [**LifeHacker**](http://lifehacker.com/) | [**Jalopnik**](http://jalopnik.com/) | [**Jezebel**](http://jezebel.com/) | [**Kotaku**](http://kotaku.com/) | [**Deadspin**](http://deadspin.com/) / [*wiki*](https://en.wikipedia.org/wiki/Gawker_Media#List_of_Gizmodo_Media_blogs), [*kinja*](https://kinja.com/) / [*Gawker*](http://gawker.com/) shut down August 22nd 2016
 * [**Medium**](https://medium.com/)
 * [**WaitButWhy**](http://waitbutwhy.com/)
 * [**WordPress**](https://wordpress.com/)
