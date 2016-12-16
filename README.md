@@ -117,7 +117,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Temp Share**](https://temp-share.com/home)
 
 ## Gifting
-* [**NetFlorist**](http://www.netflorist.co.za/) / SA floral delivery service
+* [**NetFlorist**](http://www.netflorist.co.za/) | [**NetJewel**](http://www.netjewel.co.za/)
 
 ## Image Uploading
 * [**Imgur**](http://imgur.com/)
