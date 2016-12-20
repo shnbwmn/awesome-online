@@ -49,7 +49,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## CAD
 * [**3D Gerber Viewer**](http://mayhewlabs.com/3dpcb)
-* [**OpenJSCAD**](http://openjscad.org/)
+* [**OpenJSCAD**](http://openjscad.org/) | [**CoffeeSCad**](http://coffeescad.net/)
 
 ## Calculate
 * [**fxsolver**](http://www.fxsolver.com/)
@@ -100,6 +100,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 [*mapt*](#books-and-publications)
 
+* [**Codecademy**](https://www.codecademy.com/) / [*makeuseof*](http://www.makeuseof.com/tag/4-reasons-shouldnt-learn-code-codeacademy/)
 * [**Coursera**](https://www.coursera.org/)
 * [**EdX**](https://www.edx.org/)
 * [**Open2Study**](https://www.open2study.com/)
@@ -144,6 +145,9 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Paste Service
 * [**Pastebin**](http://pastebin.com/)
+
+## Photography
+* [**500px**](https://500px.com/)
 
 ## Project Management
 * [**Trello**](https://trello.com/)
