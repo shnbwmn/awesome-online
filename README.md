@@ -141,6 +141,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Music
 * [**Deezer**](http://www.deezer.com/)
+* [**Tubidy**](http://tubidy.mobi/index.php)
 
 ## Notes
 * [**Google Keep**](https://keep.google.com/)
