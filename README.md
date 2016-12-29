@@ -9,7 +9,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Contents
 
-> [*3D*](#3d) | [*Art*](#art) | [*Bible Study*](#bible-study) | [*Blogging*](#blogging) | [*Bookmarks*](#bookmarks) | [*Books and Publications*](#books-and-publications) | [*CAD*](#cad) | [*Calculate*](#calculate) | [*Chat*](#chat) | [*Colour Picking*](#colour-picking) | [*Communities*](#communities) | [*Compression*](#compression) | [*Computer Graphics*](#computer-graphics) | [*Design*](#design) | [*Discovery*](#discovery) | [*Documentation*](#documentation) | [*Document Editing*](#document-editing) | [*Education*](#education) | [*Email*](#email) | [*English*](#english) | [*File Sharing*](#file-sharing) | [*Gifting*](#gifting) | [*Image Uploading*](#image-uploading) | [*Maps*](#maps) | [*Men*](#men) | [*Movies*](#movies) | [*Music*](#music) | [*Notes*](#notes) | [*Passwords*](#passwords) | [*Paste Service*](#paste-service) | [*Project Management*](#project-management) | [*Public Domain*](#public-domain) | [*Questions and Answers*](#questions-and-answers) | [*Read Later*](#read-later) | [*Search*](#search) | [*Security*](#security) | [*Series*](#series) | [*Software*](#software) | [*Stock Photos*](#stock-photos) | [*Storage*](#storage) | [*Talks*](#talks) | [*Technology*](#technology) | [*Time*](#time) | [*Torrents*](#torrents) | [*Video Sharing*](#video-sharing) | [*Web Archive*](#web-archive) | [*Web Design*](#web-design)
+> [*3D*](#3d) | [*Art and Design*](#art-and-design) | [*Bible Study*](#bible-study) | [*Blogging*](#blogging) | [*Bookmarks*](#bookmarks) | [*Books and Publications*](#books-and-publications) | [*CAD*](#cad) | [*Calculate*](#calculate) | [*Chat*](#chat) | [*Colour Picking*](#colour-picking) | [*Communities*](#communities) | [*Compression*](#compression) | [*Discovery*](#discovery) | [*Documentation*](#documentation) | [*Document Editing*](#document-editing) | [*Education*](#education) | [*Email*](#email) | [*English*](#english) | [*File Sharing*](#file-sharing) | [*Gifting*](#gifting) | [*Graphics*](#graphics) | [*Image Uploading*](#image-uploading) | [*Maps*](#maps) | [*Men*](#men) | [*Movies*](#movies) | [*Music*](#music) | [*Notes*](#notes) | [*Passwords*](#passwords) | [*Paste Service*](#paste-service) | [*Project Management*](#project-management) | [*Public Domain*](#public-domain) | [*Questions and Answers*](#questions-and-answers) | [*Read Later*](#read-later) | [*Search*](#search) | [*Security*](#security) | [*Series*](#series) | [*Software*](#software) | [*Stock Photos*](#stock-photos) | [*Storage*](#storage) | [*Talks*](#talks) | [*Technology*](#technology) | [*Time*](#time) | [*Torrents*](#torrents) | [*Video Sharing*](#video-sharing) | [*Web Archive*](#web-archive) | [*Web Design*](#web-design)
 
 ## 3D
 * [**Blend4Web**](https://www.blend4web.com/en/)
@@ -17,7 +17,6 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Art
 * [**Google Arts and Culture**](https://www.google.com/culturalinstitute/beta/u/0/) / [*giga*](http://gigafineart.herokuapp.com/gcidownload), [*quora*](https://www.quora.com/Is-there-a-way-to-extract-and-save-the-high-resolution-images-from-the-Google-art-project) /  formerly *Google Art Project*
-* [**Pinterest**](https://pinterest.com)
 * [**Quickposes**](https://www.quickposes.com/)
 * [**Sotheby's**](http://www.sothebys.com/en.html)
 * [**The Met**](http://www.metmuseum.org/art/collection)
@@ -71,14 +70,6 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Caesium**](https://saerasoft.com/caesium/online/)
 * [**TinyPNG**](https://tinypng.com/)
 
-## Computer Graphics
-* [**ArtStation**](https://www.artstation.com/)
-* [**CGPress**](http://cgpress.org/)
-* [**CGSociety**](http://www.cgsociety.org/)
-
-## Design
-* [**Adobe Create**](http://create.adobe.com/)
-
 ## Discounts
 * [**Giveaway Club**](http://giveaway-club.com/)
 * [**Giveaway Of The Day**](https://www.giveawayoftheday.com/)
@@ -119,6 +110,15 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Gifting
 * [**NetFlorist**](http://www.netflorist.co.za/) | [**NetJewel**](http://www.netjewel.co.za/)
+
+## Graphics
+* [**Adobe Create**](http://create.adobe.com/)
+* [**ArtStation**](https://www.artstation.com/)
+* [**Behance**](https://www.behance.net/) / also by *Adobe*
+* [**CGPress**](http://cgpress.org/)
+* [**CGSociety**](http://www.cgsociety.org/)
+* [**DeviantArt**](http://www.deviantart.com/)
+* [**Pinterest**](https://pinterest.com)
 
 ## Image Uploading
 * [**Imgur**](http://imgur.com/)
