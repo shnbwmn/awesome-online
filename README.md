@@ -3,7 +3,7 @@
 
 > Curated list of awesome online apps & sites.
 
-Create a [pull request](https://github.com/shnbwmn/awesome-online/pulls) to add programs | Start an [issue](https://github.com/shnbwmn/awesome-online/issues) for corrections or discussions
+[**Contents**](#contents) | Create a [**Pull Request**](https://github.com/shnbwmn/awesome-online/pulls) to add programs | Start an [**Issue**](https://github.com/shnbwmn/awesome-online/issues) for corrections or discussions
 
 _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable), [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games), [**Awesome Mobile**](https://github.com/shnbwmn/awesome-mobile)
 
