@@ -11,7 +11,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Contents
 
-> [*3D*](#3d) | [*Art and Design*](#art-and-design) | [*Bible Study*](#bible-study) | [*Blogging*](#blogging) | [*Bookmarks*](#bookmarks) | [*Books and Publications*](#books-and-publications) | [*CAD*](#cad) | [*Calculate*](#calculate) | [*Chat*](#chat) | [*Colour Picking*](#colour-picking) | [*Communities*](#communities) | [*Compression*](#compression) | [*Discovery*](#discovery) | [*Documentation*](#documentation) | [*Document Editing*](#document-editing) | [*Education*](#education) | [*Email*](#email) | [*English*](#english) | [*File Sharing*](#file-sharing) | [*Gifting*](#gifting) | [*Graphics*](#graphics) | [*Image Uploading*](#image-uploading) | [*Maps*](#maps) | [*Men*](#men) | [*Movies*](#movies) | [*Music*](#music) | [*Notes*](#notes) | [*Passwords*](#passwords) | [*Paste Service*](#paste-service) | [*Project Management*](#project-management) | [*Public Domain*](#public-domain) | [*Questions and Answers*](#questions-and-answers) | [*Read Later*](#read-later) | [*Search*](#search) | [*Security*](#security) | [*Series*](#series) | [*Software*](#software) | [*Stock Photos*](#stock-photos) | [*Storage*](#storage) | [*Talks*](#talks) | [*Technology*](#technology) | [*Time*](#time) | [*Torrents*](#torrents) | [*Video Sharing*](#video-sharing) | [*Web Archive*](#web-archive) | [*Web Design*](#web-design)
+> [*3D*](#3d) | [*Art and Design*](#art-and-design) | [*Bible Study*](#bible-study) | [*Blogging*](#blogging) | [*Bookmarks*](#bookmarks) | [*Books and Publications*](#books-and-publications) | [*CAD*](#cad) | [*Calculate*](#calculate) | [*Chat*](#chat) | [*Colour Picking*](#colour-picking) | [*Communities*](#communities) | [*Compression*](#compression) | [*Discovery*](#discovery) | [*Documentation*](#documentation) | [*Document Editing*](#document-editing) | [*Education*](#education) | [*Email*](#email) | [*English*](#english) | [*File Sharing*](#file-sharing) | [*Gifting*](#gifting) | [*Graphics*](#graphics) | [*Image Uploading*](#image-uploading) | [*Maps*](#maps) | [*Men*](#men) | [*Movies*](#movies) | [*Music*](#music) | [*Notes*](#notes) | [*Passwords*](#passwords) | [*Paste Service*](#paste-service) | [*Project Management*](#project-management) | [*Public Domain*](#public-domain) | [*Questions and Answers*](#questions-and-answers) | [*Read Later*](#read-later) | [*Search*](#search) | [*Security*](#security) | [*Series*](#series) | [*Software*](#software) | [*Stock Photos*](#stock-photos) | [*Stock Sounds*](#stock-sounds) | [*Storage*](#storage) | [*Talks*](#talks) | [*Technology*](#technology) | [*Time*](#time) | [*Torrents*](#torrents) | [*Video Sharing*](#video-sharing) | [*Web Archive*](#web-archive) | [*Web Design*](#web-design)
 
 ## 3D
 * [**Blend4Web**](https://www.blend4web.com/en/)
@@ -198,6 +198,10 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Stock Photos
 * [**Pixabay**](https://pixabay.com/) / [*standards*](https://pixabay.com/en/blog/posts/photography-training-and-image-quality-standards-22/#)
+
+## Stock Sounds
+* [**FindSounds**](http://www.findsounds.com/)
+* [**Freesound**](http://www.freesound.org/)
 
 ## Storage
 * [**Dropbox**](https://www.dropbox.com/)
