@@ -72,6 +72,9 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Caesium**](https://saerasoft.com/caesium/online/)
 * [**TinyPNG**](https://tinypng.com/)
 
+## Crime
+* [**Murderpedia**](http://murderpedia.org/index.htm)
+
 ## Discounts
 * [**Giveaway Club**](http://giveaway-club.com/)
 * [**Giveaway Of The Day**](https://www.giveawayoftheday.com/)
