@@ -152,6 +152,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Tubidy**](http://tubidy.mobi/index.php)
 
 ## News - Local
+* [**Eyewitness News**](http://ewn.co.za/) / *EWN*
 
 ## Notes
 * [**Google Keep**](https://keep.google.com/)
