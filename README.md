@@ -158,6 +158,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Tubidy**](http://tubidy.mobi/index.php)
 
 ## News - Local
+* [**Daily Maverick**](https://www.dailymaverick.co.za/)
 * [**Eyewitness News**](http://ewn.co.za/) / *EWN*
 
 ## News - World
