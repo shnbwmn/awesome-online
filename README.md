@@ -11,7 +11,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Contents
 
-> [*3D*](#3d) | [*Art*](#art) | [*Bible Study*](#bible-study) | [*Blogging*](#blogging) | [*Bookmarks*](#bookmarks) | [*Books and Publications*](#books-and-publications) | [*CAD*](#cad) | [*Calculate*](#calculate) | [*Chat*](#chat) | [*Colour Picking*](#colour-picking) | [*Communities*](#communities) | [*Compression*](#compression) | [*Crime*](#crime) | [*Culture*](#culture) | [*Discovery*](#discovery) | [*Documentation*](#documentation) | [*Document Editing*](#document-editing) | [*Education*](#education) | [*Email*](#email) | [*English*](#english) | [*File Sharing*](#file-sharing) | [*Gaming*](#gaming) | [*Gifting*](#gifting) | [*Graphics*](#graphics) | [*Home and Garden*](#home-and-garden) | [*Image Uploading*](#image-uploading) | [*Maps*](#maps) | [*Men*](#men) | [*Movies*](#movies) | [*Music*](#music) | [*News - Local*](#news---local) | [*News - World*](#news---world)| [*Notes*](#notes) | [*Passwords*](#passwords) | [*Paste Service*](#paste-service) | [*Project Management*](#project-management) | [*Public Domain*](#public-domain) | [*Questions and Answers*](#questions-and-answers) | [*Read Later*](#read-later) | [*Search*](#search) | [*Security*](#security) | [*Series*](#series) | [*Software*](#software) | [*Stock Photos*](#stock-photos) | [*Stock Sounds*](#stock-sounds) | [*Storage*](#storage) | [*Talks*](#talks) | [*Technology*](#technology) | [*Time*](#time) | [*Torrents*](#torrents) | [*Video Sharing*](#video-sharing) | [*Web Archive*](#web-archive) | [*Web Design*](#web-design)
+> [*3D*](#3d) | [*Art*](#art) | [*Bible Study*](#bible-study) | [*Blogging*](#blogging) | [*Bookmarks*](#bookmarks) | [*Books and Publications*](#books-and-publications) | [*CAD*](#cad) | [*Calculate*](#calculate) | [*Chat*](#chat) | [*Colour Picking*](#colour-picking) | [*Communities*](#communities) | [*Compression*](#compression) | [*Crime*](#crime) | [*Culture*](#culture) | [*Discovery*](#discovery) | [*Documentation*](#documentation) | [*Document Editing*](#document-editing) | [*Education*](#education) | [*Email*](#email) | [*English*](#english) | [*File Sharing*](#file-sharing) | [*Gaming*](#gaming) | [*Gifting*](#gifting) | [*Graphics*](#graphics) | [*Home and Garden*](#home-and-garden) | [*Image Uploading*](#image-uploading) | [*Maps*](#maps) | [*Men*](#men) | [*Movies*](#movies) | [*Music*](#music) | [*News - Local*](#news---local) | [*News - World*](#news---world)| [*Notes*](#notes) | [*Passwords*](#passwords) | [*Paste Service*](#paste-service) | [*Photography*](#photography) | [*Project Management*](#project-management) | [*Public Domain*](#public-domain) | [*Questions and Answers*](#questions-and-answers) | [*Read Later*](#read-later) | [*Search*](#search) | [*Security*](#security) | [*Series*](#series) | [*Software*](#software) | [*Stock Photos*](#stock-photos) | [*Stock Sounds*](#stock-sounds) | [*Storage*](#storage) | [*Talks*](#talks) | [*Technology*](#technology) | [*Time*](#time) | [*Torrents*](#torrents) | [*Video Sharing*](#video-sharing) | [*Web Archive*](#web-archive) | [*Web Design*](#web-design)
 
 ## 3D
 * [**Blend4Web**](https://www.blend4web.com/en/)
@@ -181,6 +181,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Photography
 * [**500px**](https://500px.com/)
+* [**Photography Stack Exchange**](http://photo.stackexchange.com/)
 
 ## Project Management
 * [**Trello**](https://trello.com/)
@@ -190,7 +191,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Questions and Answers
 * [**Quora**](https://www.quora.com/)
-* [**StackExchange**](http://stackexchange.com/)
+* [**StackExchange**](http://stackexchange.com/) / includes self-contained sections on a wide variety of subjects
 * [**Yahoo Answers**](https://answers.yahoo.com/)
 
 ## Read Later
@@ -216,6 +217,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**FreewareFiles**](http://www.freewarefiles.com/)
 * [**GitHub**](https://github.com/) / :)
 * [**Softpedia**](http://www.softpedia.com/)
+* [**Software Recommendations Stack Exchange**](http://softwarerecs.stackexchange.com/)
 * [**Sourceforge**](https://sourceforge.net/)
 * [**SnapFiles**](http://www.snapfiles.com/)
 
