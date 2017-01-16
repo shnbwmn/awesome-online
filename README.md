@@ -162,6 +162,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Daily Maverick**](https://www.dailymaverick.co.za/)
 * [**eNCA**](http://www.enca.com/)
 * [**Eyewitness News**](http://ewn.co.za/) / *EWN*
+* [**Mail & Guardian**](http://mg.co.za/)
 * [**MSN South Africa**](http://www.msn.com/en-za) / aggregation from other news sites
 * [**News24**](http://www.news24.com/)
 
