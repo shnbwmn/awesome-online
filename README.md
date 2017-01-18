@@ -169,6 +169,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 ## News - World
 * [**Reuters**](http://www.reuters.com/)
 * [**The Guardian**](https://www.theguardian.com/)
+* [**The New York Times**](https://www.nytimes.com/)
 
 ## Notes
 * [**Google Keep**](https://keep.google.com/)
