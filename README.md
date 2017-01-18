@@ -171,6 +171,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Reuters**](http://www.reuters.com/)
 * [**The Guardian**](https://www.theguardian.com/)
 * [**The New York Times**](https://www.nytimes.com/)
+* [**The Telegraph**](http://www.telegraph.co.uk/)
 
 ## Notes
 * [**Google Keep**](https://keep.google.com/)
