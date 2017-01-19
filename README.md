@@ -11,7 +11,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 
 ## Contents
 
-> [*3D*](#3d) | [*Art*](#art) | [*Bible Study*](#bible-study) | [*Blogging*](#blogging) | [*Bookmarks*](#bookmarks) | [*Books and Publications*](#books-and-publications) | [*CAD*](#cad) | [*Calculate*](#calculate) | [*Chat*](#chat) | [*Colour Picking*](#colour-picking) | [*Communities*](#communities) | [*Compression*](#compression) | [*Crime*](#crime) | [*Culture*](#culture) | [*Discovery*](#discovery) | [*Documentation*](#documentation) | [*Document Editing*](#document-editing) | [*Education*](#education) | [*Email*](#email) | [*English*](#english) | [*File Sharing*](#file-sharing) | [*Gaming*](#gaming) | [*Gifting*](#gifting) | [*Graphics*](#graphics) | [*Home and Garden*](#home-and-garden) | [*Image Uploading*](#image-uploading) | [*Maps*](#maps) | [*Men*](#men) | [*Movies*](#movies) | [*Music*](#music) | [*News - Local*](#news---local) | [*News - World*](#news---world) | [*Notes*](#notes) | [*Passwords*](#passwords) | [*Paste Service*](#paste-service) | [*Photography*](#photography) | [*Project Management*](#project-management) | [*Public Domain*](#public-domain) | [*Questions and Answers*](#questions-and-answers) | [*Read Later*](#read-later) | [*Search*](#search) | [*Security*](#security) | [*Series*](#series) | [*Software*](#software) | [*Stock Photos*](#stock-photos) | [*Stock Sounds*](#stock-sounds) | [*Storage*](#storage) | [*Talks*](#talks) | [*Technology*](#technology) | [*Time*](#time) | [*Torrents*](#torrents) | [*Video Sharing*](#video-sharing) | [*Web Archive*](#web-archive) | [*Web Design*](#web-design)
+> [*3D*](#3d) | [*Art*](#art) | [*Bible Study*](#bible-study) | [*Blogging*](#blogging) | [*Bookmarks*](#bookmarks) | [*Books and Publications*](#books-and-publications) | [*CAD*](#cad) | [*Calculate*](#calculate) | [*Chat*](#chat) | [*Classifieds*](#classifieds) | [*Colour Picking*](#colour-picking) | [*Communities*](#communities) | [*Compression*](#compression) | [*Crime*](#crime) | [*Culture*](#culture) | [*Discovery*](#discovery) | [*Documentation*](#documentation) | [*Document Editing*](#document-editing) | [*Education*](#education) | [*Email*](#email) | [*English*](#english) | [*File Sharing*](#file-sharing) | [*Gaming*](#gaming) | [*Gifting*](#gifting) | [*Graphics*](#graphics) | [*Home and Garden*](#home-and-garden) | [*Image Uploading*](#image-uploading) | [*Maps*](#maps) | [*Men*](#men) | [*Movies*](#movies) | [*Music*](#music) | [*News - Local*](#news---local) | [*News - World*](#news---world) | [*Notes*](#notes) | [*Passwords*](#passwords) | [*Paste Service*](#paste-service) | [*Photography*](#photography) | [*Project Management*](#project-management) | [*Public Domain*](#public-domain) | [*Questions and Answers*](#questions-and-answers) | [*Read Later*](#read-later) | [*Search*](#search) | [*Security*](#security) | [*Series*](#series) | [*Shopping*](#shopping) | [*Software*](#software) | [*Stock Photos*](#stock-photos) | [*Stock Sounds*](#stock-sounds) | [*Storage*](#storage) | [*Talks*](#talks) | [*Technology*](#technology) | [*Time*](#time) | [*Torrents*](#torrents) | [*Video Sharing*](#video-sharing) | [*Web Archive*](#web-archive) | [*Web Design*](#web-design)
 
 ## 3D
 * [**Blend4Web**](https://www.blend4web.com/en/)
@@ -58,6 +58,9 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 ## Chat
 * [**Discord**](https://discordapp.com/) / [*pub*](https://discord.me/)
 * [**QuakeNet Web IRC**](https://webchat.quakenet.org/)
+
+## Classifieds
+* [**Gumtree**](https://www.gumtree.co.za/)
 
 ## Colour Picking
 * [**Adobe Color**](https://color.adobe.com/)
@@ -162,9 +165,11 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Daily Maverick**](https://www.dailymaverick.co.za/)
 * [**eNCA**](http://www.enca.com/)
 * [**Eyewitness News**](http://ewn.co.za/) / *EWN*
+* [**IOL**](http://www.iol.co.za/)
 * [**Mail & Guardian**](http://mg.co.za/)
 * [**MSN South Africa**](http://www.msn.com/en-za) / aggregation from other news sites
 * [**News24**](http://www.news24.com/)
+* [**Times LIVE**](http://www.timeslive.co.za/) | [**Sunday Times**](http://www.timeslive.co.za/sundaytimes/)
 
 ## News - World
 * [**Daily Mail**](http://www.dailymail.co.uk/)
@@ -216,6 +221,14 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**KissCartoon**](http://kisscartoon.me/)
 * [**Toonova**](http://toonova.com/)
 * [**WatchCartoonOnline**](https://www.watchcartoononline.io/)
+
+## Shopping
+
+[*gumtree*](#classifieds)
+
+* [**Loot**](http://www.loot.co.za/)
+* [**OLX**](https://www.olx.co.za/)
+* [**takealot.com**](http://www.takealot.com/)
 
 ## Software
 * [**AlternativeTo**](http://alternativeto.net/)
