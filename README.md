@@ -169,7 +169,9 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 ## News - World
 * [**Daily Mail**](http://www.dailymail.co.uk/)
 * [**Reuters**](http://www.reuters.com/)
+* [**The Atlantic**](https://www.theatlantic.com/)
 * [**The Guardian**](https://www.theguardian.com/)
+* [**The New Yorker**](http://www.newyorker.com/)
 * [**The New York Times**](https://www.nytimes.com/)
 * [**The Telegraph**](http://www.telegraph.co.uk/)
 
