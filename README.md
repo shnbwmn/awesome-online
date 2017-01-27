@@ -135,7 +135,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Pinterest**](https://pinterest.com)
 
 ## Home and Garden
-* [**Houzz**](http://www.houzz.com/)
+* [**Houzz**](http://www.houzz.com/) | [**GardenWeb**](http://www.gardenweb.com/)
 * [**This Old House**](https://www.thisoldhouse.com/) / [*youtube*](https://www.youtube.com/user/thisoldhouse)
 
 ## Image Uploading
