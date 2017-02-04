@@ -170,6 +170,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**MSN South Africa**](http://www.msn.com/en-za) / aggregation from other news sites
 * [**News24**](http://www.news24.com/)
 * [**The Citizen**](http://citizen.co.za/)
+* [**The Conversation Africa**](https://theconversation.com/africa) | [**Global**](https://theconversation.com/global)
 * [**Times LIVE**](http://www.timeslive.co.za/) | [**Sunday Times**](http://www.timeslive.co.za/sundaytimes/)
 
 ## News - World
