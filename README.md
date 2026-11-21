@@ -133,6 +133,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**CGSociety**](http://www.cgsociety.org/)
 * [**DeviantArt**](http://www.deviantart.com/)
 * [**Pinterest**](https://pinterest.com)
+* [**PixelArtHive**](https://pixelarthive.com/)
 
 ## Home and Garden
 * [**Houzz**](http://www.houzz.com/) | [**GardenWeb**](http://www.gardenweb.com/)
